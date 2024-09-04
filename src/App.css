@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+#myCanvas{
+  background-color: white;
+  border: 5px solid grey;
+  width: 89%;
+  height: 80vh;
+  margin-top: 5%;
+  margin-left: 5%;
+}
